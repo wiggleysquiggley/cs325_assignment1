@@ -1,7 +1,7 @@
 # program 1 for assignment 1 - cs325
 # Kaitlyn Kelble
 
-a = 48
+a = 32
 b = 46
 
 if a > b:
