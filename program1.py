@@ -1,1 +1,1 @@
-print("it is tuesday")
+print("it is thursday")
